@@ -1,0 +1,6 @@
+outputs/
+test_outputs/
+__pycache__/
+*.pyc
+.env
+/tmp/
